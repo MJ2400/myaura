@@ -1,0 +1,6 @@
+{
+  "name": "MyAura",
+  "description": "Tu espacio personal de bienestar, rutinas antiestrés, acompañamiento emocional con IA y kits físicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
